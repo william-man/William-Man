@@ -8,7 +8,7 @@ Currently looking for junior frontend developer roles.
 
 In my spare time, I like to tinker with electronics. Looking to delve deeper into robotics.
 
-Connect with me: [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-man/)
+Connect with me:  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-man/)
 
 ## Languages and Tools
 
