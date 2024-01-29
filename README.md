@@ -14,6 +14,8 @@ Connect with me:  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?styl
 
 ![HTML](./html-96.png) ![CSS](./css-96.png) ![JAVASCRIPT](./javascript-96.png) ![REACT](./react-80.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-man&size_weight=0.5&count_weight=0.5)
+
 <!--
 **william-man/William-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
