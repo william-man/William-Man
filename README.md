@@ -10,7 +10,7 @@ In my spare time, I like to tinker with electronics. Looking to delve deeper int
 
 ## Languages and Tools
 
-![HTML](./html-96.png) ![CSS](./css-96.png) ![JAVASCRIPT](./javascript-96.png)
+![HTML](./html-96.png) ![CSS](./css-96.png) ![JAVASCRIPT](./javascript-96.png) ![REACT](./react-80.png)
 
 <!--
 **william-man/William-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
