@@ -1,4 +1,4 @@
-![Header](./william-header.png)
+![Header](./william-header-2.png)
 
 ## About Me
 
