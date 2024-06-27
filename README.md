@@ -2,8 +2,6 @@
 
 ## About Me
 
-I am currently part of [Founders and Coders](https://www.foundersandcoders.com/) cohort FAC30b.
-
 Looking for junior frontend developer roles.
 
 In my spare time, I like to tinker with electronics and hoping to delve deeper into robotics.
